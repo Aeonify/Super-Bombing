@@ -97,7 +97,7 @@
 
 * `Now open a new terminal again and without giving Root permission` 
 * `cd Super-Bombing`
-* `./Super-BombinG.sh Or bash Super-Bombing.sh`
+* `./Super-Bombing.sh Or bash Super-Bombing.sh`
 
 
 <br>
